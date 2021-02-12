@@ -1,0 +1,303 @@
+﻿{
+  "layout": {
+    "id": "1",
+    "type": "full-width",
+    "children": [
+      {
+        "id": "47ddd12d-aedb-4a44-a4bc-cee90639510b",
+        "name": "Sección 1",
+        "type": "flex",
+        "children": [
+          {
+            "id": "0bc63168-5cb3-4d28-a898-ec7f5cb3d5ec",
+            "name": "Sección 2",
+            "type": "flex",
+            "children": [
+              {
+                "id": "969f2c88-0f78-4c45-ae92-425b8489f87f",
+                "name": "Pieza 2 - Texto",
+                "type": "text",
+                "metadata": {
+                  "children": {}
+                },
+                "styles": {
+                  "backgroundColor": "",
+                  "marginTop": "0pt",
+                  "marginLeft": "0pt",
+                  "marginBottom": "0pt",
+                  "marginRight": "0pt",
+                  "paddingTop": "0pt",
+                  "paddingLeft": "0pt",
+                  "paddingBottom": "0pt",
+                  "paddingRight": "0pt",
+                  "borderStyle": "none",
+                  "borderWidth": "0px",
+                  "borderColor": "",
+                  "borderRadius": "0px",
+                  "textPositionVertical": "middle"
+                },
+                "text": {
+                  "blocks": [
+                    {
+                      "key": "1srp3",
+                      "text": "NEW COLLECTION",
+                      "type": "align-center",
+                      "depth": 0,
+                      "inlineStyleRanges": [
+                        {
+                          "offset": 0,
+                          "length": 14,
+                          "style": "FONT-FAMILY-BasisGrotesquePro-Regular"
+                        },
+                        {
+                          "offset": 0,
+                          "length": 14,
+                          "style": "TEXT-COLOR-rgb(255,255,255)"
+                        },
+                        {
+                          "offset": 0,
+                          "length": 14,
+                          "style": "FONT-SIZE-H1"
+                        }
+                      ],
+                      "entityRanges": [],
+                      "data": {}
+                    },
+                    {
+                      "key": "798n1",
+                      "text": "",
+                      "type": "align-center",
+                      "depth": 0,
+                      "inlineStyleRanges": [],
+                      "entityRanges": [],
+                      "data": {}
+                    },
+                    {
+                      "key": "2apca",
+                      "text": "COMMING SOON",
+                      "type": "align-center",
+                      "depth": 0,
+                      "inlineStyleRanges": [
+                        {
+                          "offset": 0,
+                          "length": 12,
+                          "style": "FONT-FAMILY-BasisGrotesquePro-Regular"
+                        },
+                        {
+                          "offset": 0,
+                          "length": 12,
+                          "style": "TEXT-COLOR-rgb(255,255,255)"
+                        },
+                        {
+                          "offset": 0,
+                          "length": 12,
+                          "style": "FONT-SIZE-H1"
+                        }
+                      ],
+                      "entityRanges": [],
+                      "data": {}
+                    }
+                  ],
+                  "entityMap": {}
+                },
+                "buttonBarToggle": false,
+                "internalType": "piece-text",
+                "layout": {
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "flexBasis": "auto",
+                  "height": "auto",
+                  "width": "100%",
+                  "id": "(max-width: 767px)"
+                }
+              },
+              {
+                "id": "a1fbd4d2-d423-407b-bf99-45a1b38ebaaf",
+                "name": "Sección 2",
+                "type": "flex",
+                "children": [
+                  {
+                    "id": "da4c8503-c7db-43ad-acdd-a73a64c39b5b",
+                    "name": "Pieza 1 - countdown",
+                    "type": "piece-countdown",
+                    "metadata": {
+                      "children": {}
+                    },
+                    "styles": {
+                      "backgroundColor": "",
+                      "marginTop": "0pt",
+                      "marginLeft": "0%",
+                      "marginBottom": "0pt",
+                      "marginRight": "0%",
+                      "borderStyle": "none",
+                      "borderWidth": "0px",
+                      "borderColor": "",
+                      "borderRadius": "0px"
+                    },
+                    "internalType": "piece-countdown",
+                    "layout": {
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "flexBasis": "auto",
+                      "height": "auto",
+                      "width": "auto",
+                      "id": "(max-width: 767px)"
+                    },
+                    "dateFormat": "2",
+                    "endDate": "2021-02-17",
+                    "startDate": "2021-02-08",
+                    "fromHour": 18,
+                    "fromMinutes": 0,
+                    "onlyHours": false,
+                    "activeFont": "basis-light",
+                    "sizeDateEnd": "59px",
+                    "colorDateEnd": "#ffffff",
+                    "lowerTextSize": "15px",
+                    "progressBarHeight": "2px",
+                    "progressBarColor": "#ffffff",
+                    "configName": "prueba_configuracion"
+                  }
+                ],
+                "styles": {
+                  "marginTop": "4%",
+                  "marginLeft": "0pt",
+                  "marginBottom": "0pt",
+                  "marginRight": "0pt",
+                  "paddingTop": "0pt",
+                  "paddingLeft": "0pt",
+                  "paddingBottom": "0pt",
+                  "paddingRight": "0pt",
+                  "borderStyle": "none",
+                  "borderWidth": "0px",
+                  "borderColor": "",
+                  "borderRadius": "0px",
+                  "backgroundImage": {
+                    "landscapeImage": {
+                      "path": "",
+                      "timestamp": "1612972692185",
+                      "width": 0,
+                      "height": 0
+                    },
+                    "portraitImage": {
+                      "path": "",
+                      "timestamp": "1612972692185",
+                      "width": 0,
+                      "height": 0
+                    },
+                    "position": "top",
+                    "size": "cover"
+                  }
+                },
+                "layout": {
+                  "justifyContent": "center",
+                  "alignItems": "start",
+                  "alignContent": "stretch",
+                  "flexDirection": "row",
+                  "flexWrap": "nowrap",
+                  "flexGrow": 0,
+                  "flexShrink": 1,
+                  "flexBasis": "auto",
+                  "height": "auto",
+                  "width": "100%",
+                  "id": "(max-width: 767px)"
+                },
+                "internalType": "slice-flex"
+              }
+            ],
+            "styles": {
+              "marginTop": "0pt",
+              "marginLeft": "0pt",
+              "marginBottom": "0pt",
+              "marginRight": "0pt",
+              "paddingTop": "0pt",
+              "paddingLeft": "0pt",
+              "paddingBottom": "0pt",
+              "paddingRight": "0pt",
+              "borderStyle": "none",
+              "borderWidth": "0px",
+              "borderColor": "",
+              "borderRadius": "0px",
+              "backgroundImage": {
+                "landscapeImage": {
+                  "path": "https://static.massimodutti.net/3/cms/assets/uploads/rebajasX_33.jpg",
+                  "timestamp": "1612972692185",
+                  "width": 1800,
+                  "height": 1013
+                },
+                "portraitImage": {
+                  "path": "https://static.massimodutti.net/3/cms/assets/uploads/rebajasX_33.jpg",
+                  "timestamp": "1612972692185",
+                  "width": 1800,
+                  "height": 1013
+                },
+                "position": "top",
+                "size": "cover"
+              }
+            },
+            "layout": {
+              "justifyContent": "center",
+              "alignItems": "start",
+              "alignContent": "stretch",
+              "flexDirection": "column",
+              "flexWrap": "nowrap",
+              "flexGrow": 0,
+              "flexShrink": 1,
+              "flexBasis": "auto",
+              "height": "70vh",
+              "width": "100%",
+              "id": "(max-width: 767px)"
+            },
+            "internalType": "slice-flex"
+          }
+        ],
+        "styles": {
+          "marginTop": "0pt",
+          "marginLeft": "0pt",
+          "marginBottom": "0pt",
+          "marginRight": "0pt",
+          "paddingTop": "0pt",
+          "paddingLeft": "0pt",
+          "paddingBottom": "0pt",
+          "paddingRight": "0pt",
+          "borderStyle": "none",
+          "borderWidth": "0px",
+          "borderColor": "",
+          "borderRadius": "0px",
+          "backgroundImage": {
+            "landscapeImage": {
+              "path": "",
+              "timestamp": "1612972692184",
+              "width": 0,
+              "height": 0
+            },
+            "portraitImage": {
+              "path": "",
+              "timestamp": "1612972692184",
+              "width": 0,
+              "height": 0
+            },
+            "position": "top",
+            "size": "cover"
+          }
+        },
+        "layout": {
+          "justifyContent": "center",
+          "alignItems": "start",
+          "alignContent": "stretch",
+          "flexDirection": "row",
+          "flexWrap": "nowrap"
+        },
+        "internalType": "slice-flex"
+      }
+    ],
+    "styles": {},
+    "internalType": "layout-full-width"
+  },
+  "metadata": {
+    "materializeUTCDate": "2021-02-10T15:58:12Z",
+    "materializeCmsVersion": "3.7.0",
+    "pageVersionId": "586",
+    "pageVersionName": "Versión 1",
+    "pageSegmentId": "645"
+  }
+}
