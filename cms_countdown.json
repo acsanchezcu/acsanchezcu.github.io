@@ -143,19 +143,19 @@
                       "width": "auto",
                       "id": "(max-width: 767px)"
                     },
-                    "dateFormat": "2",
-                    "endDate": "2021-02-17",
-                    "startDate": "2021-02-08",
-                    "fromHour": 18,
-                    "fromMinutes": 0,
-                    "onlyHours": false,
-                    "activeFont": "basis-light",
-                    "sizeDateEnd": "59px",
-                    "colorDateEnd": "#ffffff",
-                    "lowerTextSize": "15px",
-                    "progressBarHeight": "2px",
-                    "progressBarColor": "#ffffff",
-                    "configName": "prueba_configuracion"
+                    "settings": {
+                      "endDate": "2021-02-17",
+                      "startDate": "2021-02-08",
+                      "fromHour": 18,
+                      "fromMinutes": 0,
+                      "onlyHours": false,
+                      "activeFont": "basis-light",
+                      "sizeDateEnd": "59px",
+                      "colorDateEnd": "#ffffff",
+                      "lowerTextSize": "15px",
+                      "progressBarHeight": "2px",
+                      "progressBarColor": "#ffffff"
+                    }
                   }
                 ],
                 "styles": {
