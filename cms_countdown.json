@@ -149,7 +149,7 @@
                       "fromHour": 18,
                       "fromMinutes": 0,
                       "onlyHours": false,
-                      "activeFont": "basis-light",
+                      "activeFont": "BasisGrotesquePro-Light",
                       "sizeDateEnd": "59px",
                       "colorDateEnd": "#ffffff",
                       "lowerTextSize": "15px",
