@@ -31,12 +31,12 @@
                       "fromHour": 18,
                       "fromMinutes": 0,
                       "onlyHours": false,
-                      "activeFont": "basis-mono-regular",
+                      "activeFont": "BasisGrotesquePro-Light",
                       "sizeDateEnd": "39px",
-                      "colorDateEnd": "#ffff",
+                      "colorDateEnd": "#ffffff",
                       "lowerTextSize": "14px",
                       "progressBarHeight": "1px",
-                      "progressBarColor": "#ffff",
+                      "progressBarColor": "#ffffff",
                       "configName": ""
                     },
                     "styles": {
