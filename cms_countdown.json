@@ -26,8 +26,10 @@
                       "children": {}
                     },
                     "settings": {
-                      "endDate": "2021-02-28",
+                      "endDate": "2021-03-12",
                       "startDate": "2021-02-17",
+                      "fromHour": 18,
+                      "fromMinutes": 0,
                       "onlyHours": false,
                       "activeFont": "basis-mono-regular",
                       "sizeDateEnd": "39px",
