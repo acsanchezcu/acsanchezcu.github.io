@@ -1,0 +1,520 @@
+{
+  "layout": {
+    "id": "1",
+    "type": "vertical-slider",
+    "children": [
+      {
+        "id": "a6309e93-588e-42c0-9e24-1355f9a93c01",
+        "name": "Sección 1",
+        "type": "flex",
+        "children": [
+          {
+            "id": "a954c6bf-1c6a-462f-9f65-87b509f86326",
+            "name": "Pieza 1 - SwitchContent",
+            "type": "piece-switch-content",
+            "children": [
+              {
+                "id": "e5ff8696-f60a-4f6e-a7b3-5000d8381f02",
+                "name": "Fragmento",
+                "type": "flex",
+                "children": [
+                  {
+                    "id": "855e1ddf-a320-4747-bd58-ff5ebfcdecb1",
+                    "name": "Sección 1",
+                    "type": "flex",
+                    "children": [
+                      {
+                        "id": "a3c9ccf3-8f4f-4be3-ab7e-c11d07907c80",
+                        "name": "Sección 5",
+                        "type": "flex",
+                        "children": [
+                          {
+                            "id": "174ed721-3bb7-4e56-810a-01e478e934c3",
+                            "name": "Sección 4",
+                            "type": "flex",
+                            "children": [
+                              {
+                                "id": "99d2009c-06f6-4992-8c74-d3af00dbb1b7",
+                                "name": "Pieza 1 - Texto",
+                                "type": "text",
+                                "metadata": {
+                                  "children": {}
+                                },
+                                "styles": {
+                                  "backgroundColor": "",
+                                  "marginTop": "0pt",
+                                  "marginLeft": "0pt",
+                                  "marginBottom": "0pt",
+                                  "marginRight": "0pt",
+                                  "paddingTop": "0pt",
+                                  "paddingLeft": "0pt",
+                                  "paddingBottom": "0pt",
+                                  "paddingRight": "0pt",
+                                  "borderStyle": "none",
+                                  "borderWidth": "0px",
+                                  "borderColor": "",
+                                  "borderRadius": "0px",
+                                  "textPositionVertical": "down"
+                                },
+                                "text": {
+                                  "blocks": [
+                                    {
+                                      "key": "1s151",
+                                      "text": "NEW COLLECTION",
+                                      "type": "align-center",
+                                      "depth": 0,
+                                      "inlineStyleRanges": [
+                                        {
+                                          "offset": 0,
+                                          "length": 14,
+                                          "style": "TEXT-COLOR-rgb(255,255,255)"
+                                        },
+                                        {
+                                          "offset": 0,
+                                          "length": 14,
+                                          "style": "FONT-FAMILY-BasisGrotesquePro-Regular"
+                                        },
+                                        {
+                                          "offset": 0,
+                                          "length": 14,
+                                          "style": "FONT-SIZE-H1"
+                                        }
+                                      ],
+                                      "entityRanges": [],
+                                      "data": {}
+                                    },
+                                    {
+                                      "key": "9gp3q",
+                                      "text": "",
+                                      "type": "align-center",
+                                      "depth": 0,
+                                      "inlineStyleRanges": [],
+                                      "entityRanges": [],
+                                      "data": {}
+                                    },
+                                    {
+                                      "key": "3e42n",
+                                      "text": "",
+                                      "type": "align-center",
+                                      "depth": 0,
+                                      "inlineStyleRanges": [],
+                                      "entityRanges": [],
+                                      "data": {}
+                                    },
+                                    {
+                                      "key": "dok7",
+                                      "text": "COMING SOON",
+                                      "type": "align-center",
+                                      "depth": 0,
+                                      "inlineStyleRanges": [
+                                        {
+                                          "offset": 0,
+                                          "length": 11,
+                                          "style": "TEXT-COLOR-rgb(255,255,255)"
+                                        },
+                                        {
+                                          "offset": 0,
+                                          "length": 11,
+                                          "style": "FONT-FAMILY-BasisGrotesquePro-Regular"
+                                        },
+                                        {
+                                          "offset": 0,
+                                          "length": 11,
+                                          "style": "FONT-SIZE-H1"
+                                        }
+                                      ],
+                                      "entityRanges": [],
+                                      "data": {}
+                                    }
+                                  ],
+                                  "entityMap": {}
+                                },
+                                "buttonBarToggle": false,
+                                "internalType": "piece-text",
+                                "layout": {
+                                  "flexGrow": 0,
+                                  "flexShrink": 1,
+                                  "flexBasis": "auto",
+                                  "height": "auto",
+                                  "width": "100%",
+                                  "id": "(max-width: 767px)"
+                                }
+                              }
+                            ],
+                            "styles": {
+                              "marginTop": "0pt",
+                              "marginLeft": "0pt",
+                              "marginBottom": "0pt",
+                              "marginRight": "0pt",
+                              "paddingTop": "0pt",
+                              "paddingLeft": "0pt",
+                              "paddingBottom": "20pt",
+                              "paddingRight": "0pt",
+                              "borderStyle": "none",
+                              "borderWidth": "0px",
+                              "borderColor": "",
+                              "borderRadius": "0px",
+                              "backgroundImage": {
+                                "landscapeImage": {
+                                  "path": "",
+                                  "timestamp": "1614689476086",
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "portraitImage": {
+                                  "path": "",
+                                  "timestamp": "1614689476086",
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "position": "top",
+                                "size": "cover"
+                              }
+                            },
+                            "layout": {
+                              "justifyContent": "center",
+                              "alignItems": "end",
+                              "alignContent": "stretch",
+                              "flexDirection": "row",
+                              "flexWrap": "nowrap",
+                              "flexGrow": 0,
+                              "flexShrink": 1,
+                              "flexBasis": "auto",
+                              "height": "50vh",
+                              "minHeight": "0vh",
+                              "width": "100%",
+                              "id": "(max-width: 767px)"
+                            },
+                            "internalType": "slice-flex"
+                          },
+                          {
+                            "id": "85d92459-d2e0-4df3-b1bb-ec601c18561c",
+                            "name": "Sección 3",
+                            "type": "flex",
+                            "children": [
+                              {
+                                "id": "567e47eb-3b3a-41a9-9c30-c02b10c31b2c",
+                                "name": "Pieza 2 - countdown",
+                                "type": "piece-countdown",
+                                "metadata": {
+                                  "children": {}
+                                },
+                                "settings": {
+                                  "endDate": "2021-03-11",
+                                  "startDate": "2021-02-25",
+                                  "fromHour": 15,
+                                  "fromMinutes": 20,
+                                  "onlyHours": false,
+                                  "activeFont": "basis-light",
+                                  "sizeDateEnd": "35px",
+                                  "colorDateEnd": "#ffff",
+                                  "lowerTextSize": "14px",
+                                  "progressBarHeight": "1px",
+                                  "progressBarColor": "#ffff",
+                                  "configName": ""
+                                },
+                                "styles": {
+                                  "backgroundColor": "",
+                                  "marginTop": "0pt",
+                                  "marginLeft": "0pt",
+                                  "marginBottom": "0pt",
+                                  "marginRight": "0pt",
+                                  "borderStyle": "none",
+                                  "borderWidth": "0px",
+                                  "borderColor": "",
+                                  "borderRadius": "0px"
+                                },
+                                "internalType": "piece-countdown",
+                                "layout": {
+                                  "flexGrow": 0,
+                                  "flexShrink": 1,
+                                  "flexBasis": "auto",
+                                  "height": "auto",
+                                  "width": "auto",
+                                  "id": "(max-width: 767px)"
+                                }
+                              }
+                            ],
+                            "styles": {
+                              "marginTop": "0pt",
+                              "marginLeft": "0pt",
+                              "marginBottom": "0pt",
+                              "marginRight": "0pt",
+                              "paddingTop": "20pt",
+                              "paddingLeft": "0pt",
+                              "paddingBottom": "0pt",
+                              "paddingRight": "0pt",
+                              "borderStyle": "none",
+                              "borderWidth": "0px",
+                              "borderColor": "",
+                              "borderRadius": "0px",
+                              "backgroundImage": {
+                                "landscapeImage": {
+                                  "path": "",
+                                  "timestamp": "1614689476086",
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "portraitImage": {
+                                  "path": "",
+                                  "timestamp": "1614689476086",
+                                  "width": 0,
+                                  "height": 0
+                                },
+                                "position": "top",
+                                "size": "cover"
+                              }
+                            },
+                            "layout": {
+                              "justifyContent": "start",
+                              "alignItems": "center",
+                              "alignContent": "stretch",
+                              "flexDirection": "column",
+                              "flexWrap": "nowrap",
+                              "flexGrow": 0,
+                              "flexShrink": 1,
+                              "flexBasis": "auto",
+                              "height": "50vh",
+                              "width": "100%",
+                              "id": "(max-width: 767px)"
+                            },
+                            "internalType": "slice-flex"
+                          }
+                        ],
+                        "styles": {
+                          "marginTop": "0pt",
+                          "marginLeft": "0pt",
+                          "marginBottom": "0pt",
+                          "marginRight": "0pt",
+                          "paddingTop": "0pt",
+                          "paddingLeft": "0pt",
+                          "paddingBottom": "0pt",
+                          "paddingRight": "0pt",
+                          "borderStyle": "none",
+                          "borderWidth": "0px",
+                          "borderColor": "",
+                          "borderRadius": "0px",
+                          "backgroundImage": {
+                            "landscapeImage": {
+                              "path": "https://static.massimodutti.net/3/cms/assets/uploads/rebajasX_33.jpg",
+                              "timestamp": "1614689476086",
+                              "width": 1900,
+                              "height": 1069
+                            },
+                            "portraitImage": {
+                              "path": "https://static.massimodutti.net/3/cms/assets/uploads/wEditorialZ_163.jpg?imwidth=800",
+                              "timestamp": "1614689476086",
+                              "width": 750,
+                              "height": 1000
+                            },
+                            "position": "top",
+                            "size": "cover"
+                          }
+                        },
+                        "layout": {
+                          "justifyContent": "center",
+                          "alignItems": "center",
+                          "alignContent": "stretch",
+                          "flexDirection": "column",
+                          "flexWrap": "nowrap",
+                          "flexGrow": 0,
+                          "flexShrink": 1,
+                          "flexBasis": "auto",
+                          "height": "auto",
+                          "minHeight": "100vh",
+                          "width": "100%",
+                          "id": "(max-width: 767px)"
+                        },
+                        "internalType": "slice-flex"
+                      }
+                    ],
+                    "styles": {
+                      "marginTop": "0pt",
+                      "marginLeft": "0pt",
+                      "marginBottom": "0pt",
+                      "marginRight": "0pt",
+                      "paddingTop": "0pt",
+                      "paddingLeft": "0pt",
+                      "paddingBottom": "0pt",
+                      "paddingRight": "0pt",
+                      "borderStyle": "none",
+                      "borderWidth": "0px",
+                      "borderColor": "",
+                      "borderRadius": "0px",
+                      "backgroundImage": {
+                        "landscapeImage": {
+                          "path": "",
+                          "timestamp": "1614689476086",
+                          "width": 0,
+                          "height": 0
+                        },
+                        "portraitImage": {
+                          "path": "",
+                          "timestamp": "1614689476086",
+                          "width": 0,
+                          "height": 0
+                        },
+                        "position": "top",
+                        "size": "cover"
+                      }
+                    },
+                    "layout": {
+                      "justifyContent": "center",
+                      "alignItems": "start",
+                      "alignContent": "stretch",
+                      "flexDirection": "row",
+                      "flexWrap": "nowrap",
+                      "alignSelf": "stretch",
+                      "flexGrow": 0,
+                      "flexShrink": 1,
+                      "flexBasis": "auto"
+                    },
+                    "internalType": "slice-flex"
+                  }
+                ],
+                "styles": {
+                  "backgroundColor": "",
+                  "marginTop": "0pt",
+                  "marginLeft": "0pt",
+                  "marginBottom": "0pt",
+                  "marginRight": "0pt",
+                  "borderStyle": "none",
+                  "borderWidth": "0px",
+                  "borderColor": "",
+                  "borderRadius": "0px"
+                },
+                "layout": {
+                  "justifyContent": "center",
+                  "alignItems": "flex-start",
+                  "alignContent": "stretch",
+                  "flexDirection": "column"
+                },
+                "internalType": "slice-flex"
+              },
+              {
+                "id": "d51ed918-dc89-4ec7-980f-cafecfe90095",
+                "name": "Pieza 3 - Imagen",
+                "type": "image",
+                "metadata": {
+                  "children": {}
+                },
+                "styles": {
+                  "objectFit": "cover",
+                  "objectPosition": "center",
+                  "backgroundColor": "",
+                  "marginTop": "0pt",
+                  "marginLeft": "0pt",
+                  "marginBottom": "0pt",
+                  "marginRight": "0pt",
+                  "borderStyle": "none",
+                  "borderWidth": "0px",
+                  "borderColor": "",
+                  "borderRadius": "0px"
+                },
+                "landscapeImage": {
+                  "path": "https://static.massimodutti.net/3/cms/assets/uploads/wNuevoX_66.jpg?imwidth=2000",
+                  "timestamp": "1614689476086",
+                  "width": 1900,
+                  "height": 1069
+                },
+                "portraitImage": {
+                  "path": "https://static.massimodutti.net/3/cms/assets/uploads/wNuevoX_66.jpg?imwidth=2000",
+                  "timestamp": "1614689476086",
+                  "width": 1900,
+                  "height": 1069
+                },
+                "image": {
+                  "path": "https://static.massimodutti.net/3/cms/assets/uploads/wNuevoX_66.jpg?imwidth=2000",
+                  "timestamp": "1614689476086",
+                  "width": 1900,
+                  "height": 1069
+                },
+                "internalType": "piece-image"
+              }
+            ],
+            "styles": {
+              "backgroundColor": "",
+              "marginTop": "0pt",
+              "marginLeft": "0pt",
+              "marginBottom": "0pt",
+              "marginRight": "0pt",
+              "borderStyle": "none",
+              "borderWidth": "0px",
+              "borderColor": "",
+              "borderRadius": "0px"
+            },
+            "metadata": {
+              "children": {
+                "slot-nav-a": [
+                  "e5ff8696-f60a-4f6e-a7b3-5000d8381f02"
+                ],
+                "slot-nav-b": [
+                  "d51ed918-dc89-4ec7-980f-cafecfe90095"
+                ]
+              }
+            },
+            "settings": {
+              "nameOfEventToListen": "cms-reload-content"
+            },
+            "internalType": "piece-switch-content",
+            "layout": {
+              "flexGrow": 0,
+              "flexShrink": 1,
+              "flexBasis": "auto",
+              "height": "100%",
+              "width": "100%",
+              "id": "(max-width: 767px)"
+            }
+          }
+        ],
+        "styles": {
+          "marginTop": "0pt",
+          "marginLeft": "0pt",
+          "marginBottom": "0pt",
+          "marginRight": "0pt",
+          "paddingTop": "0pt",
+          "paddingLeft": "0pt",
+          "paddingBottom": "0pt",
+          "paddingRight": "0pt",
+          "borderStyle": "none",
+          "borderWidth": "0px",
+          "borderColor": "",
+          "borderRadius": "0px",
+          "backgroundImage": {
+            "landscapeImage": {
+              "path": "",
+              "timestamp": "1614689476085",
+              "width": 0,
+              "height": 0
+            },
+            "portraitImage": {
+              "path": "",
+              "timestamp": "1614689476085",
+              "width": 0,
+              "height": 0
+            },
+            "position": "top",
+            "size": "cover"
+          }
+        },
+        "layout": {
+          "justifyContent": "center",
+          "alignItems": "start",
+          "alignContent": "stretch",
+          "flexDirection": "row",
+          "flexWrap": "nowrap"
+        },
+        "internalType": "slice-flex"
+      }
+    ],
+    "styles": {},
+    "internalType": "layout-vertical-slider"
+  },
+  "metadata": {
+    "materializeUTCDate": "2021-03-02T12:51:16Z",
+    "materializeCmsVersion": "3.7.0",
+    "pageVersionId": "19405",
+    "pageVersionName": "Versión 4",
+    "pageSegmentId": "187350"
+  }
+}
