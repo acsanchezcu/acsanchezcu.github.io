@@ -212,7 +212,7 @@
                                   "progressBarHeight": "1px",
                                   "progressBarColor": "#ffff",
                                   "configName": "",
-                                  "formatDate": "0"
+                                  "dateFormat": "0"
                                 },
                                 "styles": {
                                   "backgroundColor": "",
