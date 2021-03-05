@@ -211,7 +211,8 @@
                                   "lowerTextSize": "14px",
                                   "progressBarHeight": "1px",
                                   "progressBarColor": "#ffff",
-                                  "configName": ""
+                                  "configName": "",
+                                  "formatDate": "0"
                                 },
                                 "styles": {
                                   "backgroundColor": "",
